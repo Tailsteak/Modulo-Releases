@@ -13,7 +13,7 @@ Getting Started
 
 Download the latest release from Releases
 
-Extract and run Modulo.exe
+Run the installer OR extract and run Modulo.exe from .zip folder
 
 Get a free 30-day trial key at usemodulo.com
 

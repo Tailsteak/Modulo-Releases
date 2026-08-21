@@ -17,14 +17,6 @@ Run the installer OR extract and run Modulo.exe from .zip folder
 
 Get a free 30-day trial key at usemodulo.com
 
-Documentation
-
-[Quick Start Guide](Modulo_Quick_Start_Guide.pdf)
-
-[User Guide](Modulo_User_Guide.pdf)
-
-[IT Security & Data Privacy Overview](Modulo_IT_Security_Overview.pdf)
-
 Contact
 
 Website: usemodulo.com
